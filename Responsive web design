@@ -1,0 +1,237 @@
+<html>
+<head>
+<style>
+body{
+  padding: 3em;
+  background-image: url('https://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials-hero-00e10b1f.jpg');
+  background-attachment: fixed;
+}
+a:link{
+  text-decoration: underline;
+  text:center;
+}
+header {
+  text-align: center;
+  padding-bottom: 0.75em;
+}
+.wrap{
+  padding: 3em;
+  border-radius:0.4em;
+  background-color: rgba(58,116,133, 0.8);
+  color: white;
+}
+.shadow {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+h1,h2,blockquote,h3,h4{
+  text-align:center;
+}
+h1 {
+  font-family: "Great Vibes", cursive;
+  font-size: 80px;
+  margin-bottom: 0px;
+}
+h2 {
+  font-family: "Merriweather", serif;
+  font-size: 50px;
+  margin: 0 auto 10px auto;
+  width: 80%;
+}
+h3{
+  font-family: 'Taviraj', Sans-Serif;
+  background-color: rgba(500,200,200,0.2);
+  color: #1a3300;
+  padding: 0.75em;
+  text-align: left ;
+  border-radius: 0.5em;
+ 
+}
+h4{
+  font-family: 'Montserrat Alternates', Sans-Serif;
+  background-color: rgba(255,255,255,0.6);
+  font-size:20x;
+  color: #337ab7;
+  padding: 0.75em;
+  text-align: center;
+  border-radius: 0.5em;
+}
+p {
+  margin-top: 1.5em;
+  width: 75%;
+  height: auto;
+  margin: 0 auto;
+  font-size:15x;
+}
+element.style {
+}
+img {
+    width: auto\9;
+    height: auto;
+    max-width: 100%;
+    vertical-align: middle;
+    border: 0;
+    -ms-interpolation-mode: bicubic;
+}
+
+@media (max-width: 1024px)
+.profile-image {
+    display: block;
+    text-align: center;
+    float: none;
+    margin: 0 0 10px 0px;
+    padding: 0;
+    width: 100%;
+}
+.profile-image {
+    /* float: left; */
+    text-align: left;
+   margin-bottom: -60px;
+}
+h5{
+font-family: "Great Vibes", san-serif;
+font-size: 40px;
+  width: 50%;
+  color:white;
+  margin-bottom: -40px;
+  text-align:center;
+}
+h6{
+font-family: "Great Vibes", san-serif;
+font-size: 50x;
+  width: 50%;
+  color:white;
+  margin-bottom: -6px;
+  text-align:center;
+}
+a {
+    text-decoration: none;
+    -webkit-transition: all 0.5s ease-out;
+    -moz-transition: all 0.5s ease-out;
+    -o-transition: all 0.5s ease-out;
+    transition: all 0.5s ease-out;
+    color: #525252;
+}
+blockquote {
+  font-size: 45px;
+  border: 0;
+  font-style: italic;
+  padding-top: 0.2em;
+  padding-bottom: 0;
+  color:#000066;
+}
+ul {
+ margin-left: 40px;
+ padding-left: 25px;
+ border-bottom: 1px solid black;
+ list-style: none;
+ width: 45%;
+}
+.bttn {
+    display: inline-block;
+    font-size: 10x;
+    color: #000;
+    padding: 15px 25px;
+    text-align: center;
+    background: #ffcc00;
+    text-transform: uppercase;
+    position: relative;
+    z-index: 100;
+}
+.page-container {
+    padding: 2% 0px;
+}
+</style>
+</head>
+ <main id="main">
+<div class="container-fluid">
+  <div class="row">
+    <h1 id="title ">Narendra Modi</h1>
+<h2 class="text-center  text-primary ">The Prime Minister Of India</h2>
+<center><image src="https://images.yourstory.com/cs/2/656f3140-2d6a-11e9-aa97-9329348d4c3e/modi21566395808728.png?fm=png&auto=format" alt="PM Modi that inspire the youth and remind us why we need to support their ideas and entrepreneurial zeal." class="img-center-blocked img-responsive img-rounded shadow"></center>
+   
+  <blockquote class="text-center-block text-primary"><strong>Narendra Modi Quote - “ Mind is never a problem , Mindset is "</strong></blockquote>
+   
+  </div>
+<div class="row">
+    <div class="col-md-6">
+      <div class="well">
+        <h3 class="text-center">CORNER FACTS</h3>
+<div style="border:5px double deepskyblue ;">
+ <ul class="connected list no2">
+
+   <li><strong>NAME</strong>- Narendra Modi.</li>
+   <li><strong>FULL NAME</strong>- Narendra Damodardas Modi</li>
+     <li><strong>BIRTH DATE</strong>- September 17, 1950</li>
+<li><strong>PLACE OF BIRTH</strong>- Vadnagar, India</li>
+<li><strong>SPOUSE</strong>- Jashodaben Narendrabhai Modi</li>
+     <li><strong>EDUCATION</strong>- Gujarat University, Delhi University</li>
+<li><strong>OCCUPATION</strong>- Prime Minister</li>
+<li><strong>AWARDS</strong>- Seoul Peace Prize, Order of the Distinguished Rule of Izzuddin, CNN-IBN Indian of the Year </li>
+<li><strong>HEIGHT</strong>- 1.7m</li>
+     <li><strong>ZODIAC SIGN</strong>- Virgo</li>
+    </ul>
+</div>
+</div>
+     </div>
+ </div>
+      <div class="col-md-8">
+      <div class="well">
+ <h4><strong>Description</strong></h4>
+ Narendra Modi, in full Narendra Damodardas Modi, (born September 17, 1950, Vadnagar, India), Indian politician and government official who rose to become a senior leader of the Bharatiya Janata Party (BJP). In 2014 he led his party to victory in elections to the Lok Sabha (lower chamber of the Indian parliament), after which he was sworn in as prime minister of India. Prior to that he had served (2001–14) as chief minister (head of government) of Gujarat state in western India.
+        <h4><strong>Conspectus</strong></h4>
+  <p>Narendra Modi grew up in the town of Vadnagar in India, the son of a street merchant. He entered politics as a youth and quickly rose through the ranks of Rashtriya Swayamsevak Sangh, a Hindu nationalist political party. Modi later joined the mainstream Bharatiya Janata Party in 1987, eventually becoming national secretary. In 2002, he was alleged to be responsible for the deaths of more than 1,000 Muslims during civil unrest but was later exonerated. In 2014 he was elected prime minister of India.</p>          
+          <h4><strong>Early Life And Political Career</strong></h4>
+            <p>Modi was raised in a small town in northern Gujarat, and he completed an M.A. degree in political science from Gujarat University in Ahmadabad. He joined the pro-Hindu Rashtriya Swayamsevak Sangh (RSS) organization in the early 1970s and set up a unit of the RSS’s students’ wing, the Akhil Bharatiya Vidyarthi Parishad, in his area. Modi rose steadily in the RSS hierarchy, and his association with the organization significantly benefited his subsequent political career.
+Modi joined the BJP in 1987, and a year later he was made the general secretary of the Gujarat branch of the party. He was instrumental in greatly strengthening the party’s presence in the state in succeeding years. In 1990 Modi was one of the BJP members who participated in a coalition government in the state, and he helped the BJP achieve success in the 1995 state legislative assembly elections that in March allowed the party to form the first-ever BJP-controlled government in India. The BJP’s control of the state government was relatively short-lived, however, ending in September 1996.</p>
+ <h4><strong>Life Dedicated to Politics</strong></h4>
+              <p>Modi had an arranged married at 18 but spent little time with his bride. The two eventually separated, with Modi claiming to be single for some time. He dedicated his life to politics in Gujarat, joining the RSS in 1971. During the 1975-77 political crisis, Prime Minister Indira Gandhi declared a state of emergency, banning political organizations such as the RSS. Modi went underground and wrote a book, Sangharsh ma Gujarat (Gujarat in Emergency), which chronicles his experiences as a political fugitive. In 1978, Modi graduated from Delhi University with a degree in political science and completed his master’s work at Gujarat University in 1983.</p>
+        <p>In 1987, Narendra Modi joined the Bharatiya Janata Party (BJP), which stood for Hindu nationalism. His rise through the ranks was rapid, as he wisely chose mentors to further his career. He promoted privatization of businesses, small government and Hindu values. In 1995, Modi was elected BJP national secretary, a position from which he successfully helped settle internal leadership disputes, paving the way for BJP election victories in 1998.</p>
+              <h4><strong>Gulbarg Massacre and Alleged Complicity</strong></h4>
+                <p>In February 2002, while Modi served as chief minister of Gujarat, a commuter train was attacked, allegedly by Muslims. In retaliation, an attack was carried out on the Muslim neighborhood of Gulbarg. Violence spread, and Modi imposed a curfew granting police shoot-to-kill orders. After peace was restored, Modi’s government was criticized for the harsh crackdown, and he was accused of allowing the killings of more than 1,000 Muslims, along with the mass raping and mutilation of women. After two investigations contradicted one other, the Indian Supreme Court concluded there was no evidence Modi was at fault.</p>
+        <p>Narendra Modi was reelected chief minister of Gujarat in 2007 and 2012. Through those campaigns, Modi's hard-line Hinduism softened and he spoke more about economic growth, focusing on privatization and encouraging policies to shape India as a global manufacturing epicenter. He is credited with bringing prosperity and development to Gujarat and is seen as a corrupt-free and efficient administrator. However, some say he has done little to alleviate poverty and improve living standards. </p>
+        <h4><strong>Elected Prime Minister</strong></h4>
+     
+   <p>In June 2013, Modi was selected to head the BJP’s 2014 election campaign to the Lok Sabha (the lower house of India’s parliament), while a grassroots campaign was already in place to elect him prime minister. Modi campaigned hard, portraying himself as a pragmatic candidate capable of turning around India’s economy, while his critics portrayed him as a controversial and divisive figure. In May 2014, he and his party were victorious, taking 282 of the 534 seats in the Lok Sabha. The victory marked a crushing defeat to the Indian National Congress, which had controlled country politics for most of the previous 60 years, and sent a message that India’s citizens were behind an agenda that moved away from a secular, socialist state to a more capitalist-leaning economy with Hindu nationalism at its core.</p>
+        <p>On May 26, 2014 Modi was sworn in as the 14th prime minister of India and the first to have been born after the country got its independence from the U.K.</p>
+   <h4><strong>Policy</strong></h4>
+   <p>Since becoming prime minister, Modi has encouraged foreign businesses to invest in India. He has lifted various regulations - permits and inspections - so that businesses could grow more easily. He has decreased spending on social welfare programs and has encouraged the privatization of healthcare, although he has devised a policy on universal healthcare for those citizens with serious ailments. In 2014 he launched a "Clean India" campaign, which focused on sanitation and the construction of millions of toilets in rural areas. </p>
+        <p>His environment policies have been lax, especially when those policies hamper industrial growth. He has lifted restrictions on protecting the environment and is more open to the use of genetically modified crops, despite protests from India's farmers. Under Modi's power, he has suppressed the influence of civil society organizations, such as Greenpeace, the Sierra Club, Avaaz, and other humanitarian groups, citing they prevent economic growth.</p>
+        <p>In terms of foreign policy, Modi has taken on a multilateral approach. He has participated in the BRICS, ASEAN, and G20 summits, as well as aligned himself with the United States, China, Japan and Russia to improve economic and political ties. He has also reached out to Islamic republics, most notably fostering diplomatic ties with Pakistan, although he has repeatedly labeled the country a "terrorist state" and an "exporter of terrorism."</p>
+        <p>Under his rule, Modi has substantially centralized his power compared to previous administrations.</p>
+        <h4><strong>Global Recognition</strong></h4>
+        <p>In 2016 Modi won the reader's poll as TIME's Person of the Year. In previous years, he had received top ranking as one of the most influential political figures in the world in both TIME and Forbes Magazine. He is only second to President Obama for having the most social media followers as a political figure. With high favorability ratings among Indian voters, Modi has a reputation for actively engaging citizens through social media and encouraging his own administration to stay active on its platforms. </p>
+        <br><p style="courier; font-size:2px">For More Details Click here <a href="https://en.wikipedia.org/wiki/Narendra_Modi" target="_blank"> Narendra Modi   </a></p>
+        </br></div>
+  </div>
+  <br></br>
+ <div class="block-top clearfix">
+           <a href="https://www.pmindia.gov.in/en/pms-profile/">
+                        <div class="block-top-inner">
+                            <div class="profile-image">
+             <img alt="" src="https://www.pmindia.gov.in/wp-content/themes/pmindia2015/images/know-the-pm.jpg">
+           </div>                          
+                        </div>
+                        <div class="visit-profile clearfix block-top-inner">
+                        <br><h5>Know the PM</h5> </br>
+                            <h6>Dynamic, dedicated and determined, Narendra Modi arrives as a ray of hope in the lives of a billion Indians.</h6>
+
+                           <br><div class="bttn "> <b>  Read More   </b>  <i class="icon-long-arrow-right">  </i>  </div></br>
+
+                             
+                        </div>
+           </a>
+        </div>
+
+<div class="page-container">
+            <div class="col-md-6">
+<br><div style="text-align:center"><img src="https://www.pmindia.gov.in/wp-content/uploads/2020/03/pmcares.jpg" style="width: 450px;"></div></br>
+<div class="news-bttn-area">
+  <a href="https://www.pmcares.gov.in" class="bttn" id="emergency1" title="Click Here for Donation Details" target="_blank">Click Here for Donation Details</a>
+  <a href="https://www.pmindia.gov.in/en/about-pm-cares-fund/" class="bttn" id="emergency2" title="About PM CARES Fund" style="margin-left: 10px;">About PM CARES Fund</a>
+</div>
+</div>
+<div class="col-md-6">
+<div class="news-bttn-area">
+  <a href="https://www.pmindia.gov.in/en/main/" class="bttn" id="emergency3" title="Click Here" target="_blank">Go to Main Site <i class="icon-external-link"></i></a>
+</html>
+
